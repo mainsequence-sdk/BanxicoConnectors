@@ -7,7 +7,9 @@ name = "banxico-connectors"
 version = "0.1.0"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = ["mainsequence"]
+dependencies = [
+    "mainsequence",
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]
