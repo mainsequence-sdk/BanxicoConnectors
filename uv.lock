@@ -194,7 +194,7 @@ wheels = [
 
 [[package]]
 name = "banxico-connectors"
-version = "0.1.0"
+version = "0.1.3"
 source = { editable = "." }
 dependencies = [
     { name = "mainsequence" },
@@ -1199,7 +1199,7 @@ wheels = [
 
 [[package]]
 name = "mainsequence"
-version = "3.10.9"
+version = "3.11.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cloudpickle" },
@@ -1235,9 +1235,9 @@ dependencies = [
     { name = "tqdm" },
     { name = "typer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1a/8f/c0ce51b04d4fdcd5075fb85c0110efeef0c6ac5357ec824691cec57c424f/mainsequence-3.10.9.tar.gz", hash = "sha256:f1e878352b622af1436174f78bc0584ca34a0ba757b0fd89b2ba2ca56fce6175", size = 888007, upload-time = "2026-01-15T21:00:35.132Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/8d/f0/de9267404aa5f3bcac7597259d00276d1357d33179943200034a46ccb17d/mainsequence-3.11.1.tar.gz", hash = "sha256:511e2db22884b60ed247a93d96f8f785d1c8f0bf1fb838e376d6f6884be90b4a", size = 891481, upload-time = "2026-01-20T23:29:53.208Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/e5/d6/873556a7bcf7c75929d18588957d5ad6c8c911e7da97cce1a960d0e015ad/mainsequence-3.10.9-py3-none-any.whl", hash = "sha256:fb9dbad9471a62600e8c10a0e721ecc12495e3d7d6e99b2533170c9f4f201092", size = 934119, upload-time = "2026-01-15T21:00:33.601Z" },
+    { url = "https://files.pythonhosted.org/packages/ba/cb/aa3ee5921ced965513bb524601ac5964807306bfa71600028f514b274cb9/mainsequence-3.11.1-py3-none-any.whl", hash = "sha256:1e22e0669a433e4765a3dead82b4e68935e588dd24a6183ae7cdb2bdf8bd8ae0", size = 938878, upload-time = "2026-01-20T23:29:50.525Z" },
 ]
 
 [[package]]
