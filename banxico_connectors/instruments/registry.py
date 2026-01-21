@@ -1,4 +1,4 @@
-# instruments/registry.py
+# banxico_connectors/instruments/registry.py
 """
 Banxico connector registrations.
 

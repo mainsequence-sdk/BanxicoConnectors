@@ -5,8 +5,8 @@ from typing import Callable, Mapping, Optional
 import pandas as pd
 import pytz
 
-from utils import fetch_banxico_series_batched, to_long_with_aliases
-from settings import get_tiie_fixing_id_map, get_cete_fixing_id_map
+from banxico_connectors.utils import fetch_banxico_series_batched, to_long_with_aliases
+from banxico_connectors.settings import get_tiie_fixing_id_map, get_cete_fixing_id_map
 
 from .bootstrap import bootstrap_from_curve_df
 
